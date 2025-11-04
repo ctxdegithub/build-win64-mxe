@@ -53,7 +53,7 @@ with_ffi_compat=false
 with_hevc=false
 with_debug=false
 with_prebuilt=true
-with_zlib_ng=true
+with_zlib_ng=false
 
 # Parse arguments
 POSITIONAL=()
